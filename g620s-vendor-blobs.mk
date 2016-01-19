@@ -187,7 +187,22 @@ PRODUCT_COPY_FILES += \
     $(PATH_FILES)/vendor/lib/libactuator_rohm_bu64243gwz_camera.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camera.so \
     $(PATH_FILES)/vendor/lib/libactuator_s5k4e1_liteon_13p1.so:system/vendor/lib/libactuator_s5k4e1_liteon_13p1.so \
     $(PATH_FILES)/vendor/lib/libactuator_s5k4e1_liteon_13p1_camcorder.so:system/vendor/lib/libactuator_s5k4e1_liteon_13p1_camcorder.so \
-    $(PATH_FILES)/vendor/lib/libactuator_s5k4e1_liteon_13p1_camera.so:system/vendor/lib/libactuator_s5k4e1_liteon_13p1_camera.so
+    $(PATH_FILES)/vendor/lib/libactuator_s5k4e1_liteon_13p1_camera.so:system/vendor/lib/libactuator_s5k4e1_liteon_13p1_camera.so \
+
+    $(PATH_FILES)/vendor/lib/libactuator_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806.so \
+    $(PATH_FILES)/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camera.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camera.so \
+    $(PATH_FILES)/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camcorder.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camcorder.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_common.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_common.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_preview.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_preview.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_liveshot.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_liveshot.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_snapshot.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_snapshot.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_60fps.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_60fps.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_90fps.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_90fps.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_120fps.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_120fps.so \
+    $(PATH_FILES)/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_default_video.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_default_video.so \
+    $(PATH_FILES)/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so \
+
 
 # Chromatix
 PRODUCT_COPY_FILES += \
